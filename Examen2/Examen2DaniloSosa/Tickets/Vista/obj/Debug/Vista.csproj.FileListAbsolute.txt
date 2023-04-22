@@ -1,0 +1,12 @@
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\bin\Debug\Vista.exe.config
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\bin\Debug\Vista.exe
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\bin\Debug\Vista.pdb
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.Login.resources
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.exe
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.pdb
+C:\Users\sosad\OneDrive\Documentos\Lenguaje 3 1900\Examen2DaniloSosa\Examen2\Examen2DaniloSosa\Tickets\Vista\obj\Debug\Vista.Menu.resources
